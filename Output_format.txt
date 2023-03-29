@@ -1,0 +1,16 @@
+Input format:(reads strings from user, till they enter an integer value )
+pineapple
+watermelon
+pear
+apple
+grape
+apple
+5
+
+output:
+pear
+apple
+grape 
+apple
+pineapple
+watermelon
